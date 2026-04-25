@@ -32,6 +32,10 @@ In this task, the activity of those clients who have terminated service is analy
 - Churn Analysis (by Contract, Tenure, and Monthly Charges)
 - Interactive Filters
 
+  
+## 📊 Dashboard Preview
+
+![Dashboard](dashboard.png)
 ---
 
 ## 📂 Files
