@@ -1,5 +1,16 @@
 # Churn Analysis Dashboard
 
+## 🔍 Project Workflow
+
+1. Data Cleaning using SQL  
+2. Exploratory Data Analysis  
+3. Churn Segmentation (Contract, Tenure, Charges)  
+4. Visualization using Power BI  
+5. Business Insights & Recommendations
+
+---
+
+
 ## 📌 Overview
 In this task, the activity of those clients who have terminated service is analyzed with the help of SQL and Power BI. Several critical features influencing the retention of clients are defined.
 
@@ -32,11 +43,25 @@ In this task, the activity of those clients who have terminated service is analy
 - Churn Analysis (by Contract, Tenure, and Monthly Charges)
 - Interactive Filters
 
+---
+
   
 ## 📊 Dashboard Preview
 
 ![Dashboard](dashboard.png)
+
 ---
+
+## 💼 Skills Demonstrated
+
+- Data Analysis  
+- SQL  
+- Data Visualization  
+- Business Insight Generation  
+- Problem Solving
+
+---
+
 
 ## 📂 Files
 - Power BI Dashboard (.pbix)
