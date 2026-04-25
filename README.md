@@ -1,5 +1,12 @@
 # Churn Analysis Dashboard
 
+
+## 📁 Dataset Source
+Telco Customer Churn Dataset (Kaggle)
+
+--
+
+
 ## 🔍 Project Workflow
 
 1. Data Cleaning using SQL  
